@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 1849728754
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: ui_skills.ui
+      Dependencies: {}
+    Info_1:
+      Name: ui_returnmenu.ui
+      Dependencies: {}
+    Info_2:
+      Name: ui_treasour.ui
+      Dependencies: {}
+    Info_3:
+      Name: img_gun.ui
+      Dependencies: {}
+    Info_4:
+      Name: ui_righttable.ui
+      Dependencies: {}
+    Info_5:
+      Name: missile1.item
+      Dependencies: {}
+    Info_6:
+      Name: boss3.enemy
+      Dependencies: {}
+    Info_7:
+      Name: ui_lefttable.ui
+      Dependencies: {}
+    Info_8:
+      Name: seawave.ab
+      Dependencies: {}
+    Info_9:
+      Name: level3fish3.ab
+      Dependencies: {}

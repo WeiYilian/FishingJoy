@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 7179237
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 03f109bf50aa6e0809d909a3eb18ed6b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5eeeea795a7a6e6ebd255d54e1000645
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bb6859f7763c6a447bd8b03c9d25d470, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d542cf88ef00f74494f1658b7e98adb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 846dfdcf44e865c4d88f65858d998c6a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefebs/UI/PlayerUI/UI_Skills.prefab
+Dependencies: []
